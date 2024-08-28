@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-whisper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:example": "node example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "openai": "^4.56.0",
+    "zod": "^3.23.8"
+  }
+}

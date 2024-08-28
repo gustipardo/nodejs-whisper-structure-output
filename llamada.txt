@@ -1,0 +1,32 @@
+Agente:
+"Buenos días, gracias por llamar al Banco [Santander]. Mi nombre es [Mariana López]. ¿En qué puedo ayudarle hoy?"
+
+Cliente:
+"Hola, buenos días. Me llamo [Carlos Pérez]. Quisiera realizar un pago a una cuenta en el extranjero, pero parece que no puedo completar la transacción. ¿Podría ayudarme con eso?"
+
+Agente:
+"Claro, [señor Pérez]. Voy a verificar su cuenta para ver qué está pasando. Un momento, por favor... (pausa breve). Parece que su cuenta no está habilitada para transacciones internacionales. Para poder realizar pagos al exterior, necesitamos habilitar esa opción en su cuenta. ¿Le gustaría que proceda con esto ahora?"
+
+Cliente:
+"Sí, por favor. Es bastante urgente, ya que necesito hacer este pago hoy mismo."
+
+Agente:
+"Entendido, voy a proceder con la habilitación. Solo necesitaré confirmar algunos detalles de seguridad antes de continuar. ¿Podría proporcionarme su número de identificación y confirmar la dirección registrada en su cuenta?"
+
+Cliente:
+"Por supuesto, mi número de identificación es [45267891] y mi dirección es [Av. Libertador 1234, Buenos Aires]."
+
+Agente:
+"Gracias por la información, [señor Pérez]. Ya tengo todo lo que necesito. Estoy habilitando su cuenta para transacciones internacionales ahora... (pausa breve). Listo, la habilitación ha sido exitosa. Ahora debería poder realizar el pago sin ningún problema. ¿Hay algo más en lo que pueda ayudarle hoy?"
+
+Cliente:
+"Eso es todo, muchas gracias. Realmente necesitaba hacer este pago, y me alegra que se haya resuelto tan rápido."
+
+Agente:
+"Me alegra saberlo, [señor Pérez]. Si tiene cualquier otra consulta o necesita ayuda en el futuro, no dude en contactarnos. Gracias por confiar en nosotros. Que tenga un excelente día."
+
+Cliente:
+"Muchas gracias, igualmente. Adiós."
+
+Agente:
+"Adiós."
